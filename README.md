@@ -2,6 +2,11 @@ Download and extract zip file
 run exe file	  
 .exe file only works on windows	  
 
+
+
+
+
+                        
 1.Code to move player-
             
 [SerializeField] GameObject GmCanvas;
