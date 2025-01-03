@@ -20,7 +20,7 @@ Vector3 Mpos = new Vector3(0, 1f, 0);
 // Start is called before the first frame update  
 void Start()  
 {  
-    body = GetComponent<Rigidbody>();  
+    body = GetComponent<rigidbody>();  
     lane = 1;  
     movelane();  
 }  
