@@ -9,22 +9,22 @@ run exe file
                         
 1.Code to move player-
             
-[SerializeField] GameObject GmCanvas;
-Rigidbody body;
-bool canright;
-bool canleft;
-int lane;
-Vector3 Lpos=new Vector3 (-2.5f,1f,0);
-Vector3 Rpos = new Vector3(2.5f, 1f, 0);
-Vector3 Mpos = new Vector3(0, 1f, 0);
-// Start is called before the first frame update
-void Start()
-{
-    body = GetComponent<Rigidbody>();
-    lane = 1;
-    movelane();
-}
-
+[SerializeField] GameObject GmCanvas;  
+Rigidbody body;  
+bool canright;  
+bool canleft;  
+int lane;  
+Vector3 Lpos=new Vector3 (-2.5f,1f,0);  
+Vector3 Rpos = new Vector3(2.5f, 1f, 0);  
+Vector3 Mpos = new Vector3(0, 1f, 0);  
+// Start is called before the first frame update  
+void Start()  
+{  
+    body = GetComponent<Rigidbody>();  
+    lane = 1;  
+    movelane();  
+}  
+  
 // Update is called once per frame
 void Update()
 {
