@@ -3,7 +3,7 @@ run exe file
 .exe file only works on windows	  
 
 1.Code to move player-
-
+            
 [SerializeField] GameObject GmCanvas;
 Rigidbody body;
 bool canright;
