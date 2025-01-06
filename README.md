@@ -1,4 +1,4 @@
-Use W or D to change lanes  
+Use A or D to change lanes  
 Download and extract zip file	  
 run exe file	  
 .exe file only works on windows	  
