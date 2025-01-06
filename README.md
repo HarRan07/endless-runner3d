@@ -2,6 +2,8 @@ Use W or D to change lanes
 Download and extract zip file	  
 run exe file	  
 .exe file only works on windows	  
+Please refer to raw text file as this view is bugged  
+as it contains missing text  
 
 
 
