@@ -3,7 +3,7 @@ Download and extract zip file
 run exe file	  
 .exe file only works on windows	  
 Please refer to raw text file as this view is bugged  
-as it contains missing text  
+It contains missing text  
 
 
 
